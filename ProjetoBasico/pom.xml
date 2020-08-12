@@ -3,7 +3,7 @@
   <groupId>br.ce.automacao</groupId>
   <artifactId>ProjetoBasico</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+ 
     <build>
   	<testSourceDirectory>src</testSourceDirectory>
   	<plugins>
@@ -37,7 +37,7 @@
     	<groupId>junit</groupId>
     	<artifactId>junit</artifactId>
     	<version>4.12</version>
-<!--     	<scope>test</scope> -->
+<!--     <scope>test</scope> -->
 	</dependency>
   </dependencies>
 </project>
